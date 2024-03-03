@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kindDaffy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python, html, css, c
+- 🌱 I’m currently learning python, html, css, c, c++, java
 
 <!---
 kindDaffy/kindDaffy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
